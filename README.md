@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Zilin Xiao
 
-<br />
+<br/>
 
 Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And currently, I'm a contributor of [Wechaty](https://github.com/wechaty), the most popular open-source chatbot for wechat. My academic mentor is [Prof. Yanan Sun](https://github.com/yn-sun) from Sichuan University.
 
@@ -13,9 +13,6 @@ Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And 
 - 👯 I will also make lots of my interesting projects public on my Github.
 - 💬 Ask me about anything concerning my repos, future planning or give advice!
 - 📫 How to reach me: Email on the left.
-
-**Top Used Language:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZilinXiao)
 
 **Languages and Tools:**  
 
