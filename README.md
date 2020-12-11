@@ -4,7 +4,7 @@
 
 Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And currently, I'm a contributor of [Wechaty](https://github.com/wechaty), the most popular open-source chatbot for wechat. My academic mentor is [Prof. Yanan Sun](https://github.com/yn-sun) from Sichuan University.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -14,13 +14,8 @@ Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And 
 - 💬 Ask me about anything concerning my repos, future planning or give advice!
 - 📫 How to reach me: Email on the left.
 
-**Popular Repo:**  
-<a href="https://github.com/MrZilinXiao/DroneObjectDetection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrZilinXiao&repo=DroneObjectDetection" />
-</a>
-<a href="https://github.com/MrZilinXiao/Auto-Make-Money">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrZilinXiao&repo=Auto-Make-Money" />
-</a>
+**Top Used Language:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZilinXiao)
 
 **Languages and Tools:**  
 
@@ -34,5 +29,4 @@ Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Zilin Xiao's github stats](https://github-readme-stats.vercel.app/api?username=MrZilinXiao&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZilinXiao)]
 
