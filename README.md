@@ -2,17 +2,15 @@
 
 <br/>
 
-Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. And currently, I'm a contributor of [Wechaty](https://github.com/wechaty), the most popular open-source chatbot for wechat. My academic mentor is [Prof. Yanan Sun](https://github.com/yn-sun) from Sichuan University.
+Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. My research interests mainly lie on evolutionary neural architecture search, but also cover other artificial intelligence fields including object tracking, re-identification, etc. My academic mentor is [Prof. Yanan Sun](https://github.com/yn-sun) from Sichuan University.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🔭 My recent research interest lies on NAS, object tracking.
 - 🌱 I’m currently learning advanced machine learning theory.
 - 👯 I will also make lots of my interesting projects public on my Github.
-- 💬 Ask me about anything concerning my repos, future planning or give advice!
-- 📫 How to reach me: Email on the left.
+- 💬 Ask me about anything you like!
 
 **Languages and Tools:**  
 
