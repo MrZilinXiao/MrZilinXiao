@@ -2,7 +2,9 @@
 
 <br/>
 
-Hi there, I'm **Zilin Xiao**, an **undergraduate from Sichuan University**. My research interests mainly lie on evolutionary neural architecture search, but also cover other artificial intelligence fields including object tracking, re-identification, etc. My academic mentor is [Prof. Yanan Sun](https://yn-sun.github.io/) from Sichuan University.
+Hi there, I'm **Zilin Xiao**, a **junior undergraduate from Sichuan University**. My research interests mainly lie in Neural Architecture Search, Computational Photography and other computer vision sub-fields. My academic mentor is [Prof. Yanan Sun](https://yn-sun.github.io/) from Sichuan University.
+
+He is now a research intern at [Chengdu Research, MEGVII Technology (Face++)](https://megvii.com/), focusing on unsupervised stereo matching.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
