@@ -2,16 +2,16 @@
 
 <br/>
 
-Hi there, I'm **Zilin Xiao**, a **junior undergraduate from Sichuan University**. My research interests mainly lie in Neural Architecture Search, Computational Photography and other computer vision sub-fields. My academic mentor is [Prof. Yanan Sun](https://yn-sun.github.io/) from Sichuan University.
+Hi there, I'm **Zilin Xiao**, a junior undergraduate from [Sichuan University](http://www.scu.edu.cn/). My research interests mainly lie in Neural Architecture Search, Computational Photography and other computer vision sub-fields. My academic mentor is [Prof. Yanan Sun](https://yn-sun.github.io/) from Sichuan University.
 
-He is now a research intern at [Chengdu Research, MEGVII Technology (Face++)](https://megvii.com/), focusing on unsupervised stereo matching.
+I have been a research intern at [Chengdu Research, MEGVII Technology (known as Face++)](https://megvii.com/) under the supervision of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) since Mar. 2021, focusing on unsupervised stereo matching.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning advanced machine learning theory.
-- 👯 I will also make lots of my interesting projects public on my Github.
+- 👯 I will make lots of my interesting projects public on my Github.
 - 💬 Ask me about anything you like!
 
 **Languages and Tools:**  
