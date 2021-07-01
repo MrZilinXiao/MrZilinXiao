@@ -4,7 +4,9 @@
 
 Hi there, I'm **Zilin Xiao**, a junior undergraduate from [Sichuan University](http://www.scu.edu.cn/). My research interests mainly lie in Neural Architecture Search, Computational Photography and other computer vision sub-fields. My academic mentor is [Prof. Yanan Sun](https://yn-sun.github.io/) from Sichuan University.
 
-I have been a research intern at [Chengdu Research, MEGVII Technology (known as Face++)](https://megvii.com/) under the supervision of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) since Mar. 2021, focusing on unsupervised stereo matching.
+I have been a research intern at [Chengdu Research, MEGVII Technology (known as Face++)](https://megvii.com/) under the supervision of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) since Mar. 2021, focusing on unsupervised image alignment, especially stereo matching.
+
+I will join the LaVi Lab of [Computer Science Engineering Department, the Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/) in Aug. 2022 as a MPhil candidate, supervised by [Prof. Liwei Wang](https://lwwangcse.github.io/).
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
