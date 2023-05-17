@@ -2,6 +2,12 @@
 
 I am an optimistic developer who enjoys creating practical tools that benefit society.
 
+**Github Metrics:**
+
+<p align="center">
+	<img src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
+
 **Status:**
 
 <p align="center">
